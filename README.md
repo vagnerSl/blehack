@@ -14,19 +14,18 @@ Gustavo Ferreira
 
 
 Aluguel de Carro em 3 minutos 24 horas por dia, via ChatBot Cognitivo pelo messenger do facebook
- 
-
+  
 
 
 [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/IBM-Bluemix/nodejs-helloworld)
 
-https://youtu.be/nB3H6NYQj3Q
+https://youtu.be/20i2EJ3HMY0
 
 
 
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/nB3H6NYQj3Q/0.jpg)](https://www.youtube.com/watch?v=nB3H6NYQj3Q)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/20i2EJ3HMY0/0.jpg)](https://www.youtube.com/watch?v=20i2EJ3HMY0)
  
 
  
