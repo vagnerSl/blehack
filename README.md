@@ -5,11 +5,11 @@
 # Equipe: VAABLAB
 
 Equipe:
-Bruno Brito
-Vagner Araujo
-Leandro Franco
-Pedro Maçao
-Eder Domingos
+Bruno Brito, 
+Vagner Araujo, 
+Leandro Franco, 
+Pedro Maçao, 
+Eder Domingos, 
 Gustavo Ferreira
 
 
